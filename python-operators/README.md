@@ -19,7 +19,13 @@ Python divides the operators in the following groups:
 * Membership operators
 * Bitwise operators
 
-| Column 1 name | Column 2 email | Column 3 Heading |
+| Operator| Name| Example |
 | --- | --- | --- |
-| Row 1 Column 1   | Row 1 Column 2   | Row 1 Column 3   |
-| Row 2 Column 1   | Row 2 Column 2   | Row 2 Column 3   |
+| + | Addition | x + y |
+| - | Subtraction | x - y |
+| * | Multiplication | x * y |
+| / | division | x / y |
+| % | Modulus | x % y |
+| ** | Exponentiation | x ** y |
+| // | Floor division | x // y |
+
