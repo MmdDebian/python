@@ -29,3 +29,23 @@ Python divides the operators in the following groups:
 | ** | Exponentiation | x ** y |
 | // | Floor division | x // y |
 
+
+## Python Assignment Operators
+
+Assignment operators are used to assign values to variables:
+
+| Operator| Example| Same As |
+| -------- | -------- | -------- | 
+| = | x = 5 | x = 5 |
+| += | x += 3 | x = x + 3| 
+| -= | x -= 3 | x = x - 3 | 
+| *= | x *= 3 | x = x * 3 | 
+| /= | x /= 3 | x = x / 3 |
+| %= | x %= 3 | x = x % 3 |
+| //= | x //= 3 | x = x // 3 | 
+| **= | x **= 3 | x = x ** 3 | 
+| &= | x &= 3 | x = x & 3 | 
+| |= | x |= 3 | x = x | 3 | 
+| ^= | x ^= 3 | x = x ^ 3 | 
+| >>= | x >>= 3 | x = x >> 3 | 
+| <<= | x <<= 3 | x = x << 3 | 
