@@ -18,9 +18,10 @@ print(phones[-2]) # output : samsung
 # create tuple with long items
 cars = ('volvo' , 'scania' , 'benz' , 'mack' , 'daf' , 'man')
 
-# specify negative indexes 
 
+# specify negative indexes 
 print(cars[-4:-1]) # output : ('benz' , 'mack' , 'daf')
+
 
 # To determine if a specifyed item 
 if 'volvo' in cars : 
