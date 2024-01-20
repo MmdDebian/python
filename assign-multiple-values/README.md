@@ -18,7 +18,7 @@ print(z)
 And you can assign the same value to multiple in on line : 
 
 ```
-x = y = z = "Orange"
+x ,y ,z = "Orange"
 print(x)
 print(y)
 print(z)
